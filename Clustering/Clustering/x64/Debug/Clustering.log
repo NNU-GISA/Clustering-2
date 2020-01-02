@@ -1,0 +1,13 @@
+﻿  Clustering.cpp
+d:\projects\vs\clustering\clustering\clustering.cpp(16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\vs\clustering\clustering\clustering.cpp(39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\vs\clustering\clustering\clustering.cpp(92): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\vs\clustering\clustering\clustering.cpp(108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\vs\clustering\clustering\clustering.cpp(132): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\vs\clustering\clustering\clustering.cpp(214): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Source.cpp
+  Generating Code...
+  Clustering.vcxproj -> D:\Projects\VS\Clustering\x64\Debug\Clustering.exe
+  Clustering.vcxproj -> D:\Projects\VS\Clustering\x64\Debug\Clustering.pdb (Full PDB)
